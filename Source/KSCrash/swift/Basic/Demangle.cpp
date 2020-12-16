@@ -27,7 +27,7 @@
 #include "LLVM.h"
 #include "Punycode.h"
 //#include "UUID.h"
-#include "Optional.h"
+#include "KSOptional.h"
 #include "StringRef.h"
 #include <functional>
 #include <inttypes.h>
