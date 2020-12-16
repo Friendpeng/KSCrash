@@ -25,7 +25,7 @@
 //
 
 
-#include "Demangle.h"
+#include "KSDemangle.h"
 #include "KSDemangle_Swift.h"
 
 extern "C" char* ksdm_demangleSwift(const char* mangledSymbol)

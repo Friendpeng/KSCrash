@@ -424,3 +424,4 @@ static inline bool isDigit(int c) {
 } // end namespace swift
 
 #endif // SWIFT_BASIC_DEMANGLE_H
+
